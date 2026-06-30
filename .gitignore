@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+# raw Kaggle download (large, do not commit)
+all_stocks_5yr.csv
+data/all_stocks_5yr.csv
